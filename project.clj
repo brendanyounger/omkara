@@ -5,7 +5,7 @@
 
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/clojurescript "0.0-2127"]
-                 [om "0.1.0-SNAPSHOT"]
+                 [om "0.1.5"]
                  [org.marianoguerra/clj-rhino "0.2.1"]
                  [ring "1.2.0"]
                  [compojure "1.1.5"]
